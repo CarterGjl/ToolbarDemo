@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToolbarDemo</string>
+    <string name="abc_action_bar_home_description">abcd</string>
+    <string name="abc_action_bar_home_description_format">abc</string>
+</resources>
